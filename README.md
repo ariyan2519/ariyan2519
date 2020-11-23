@@ -1,9 +1,9 @@
 ### Hello,I'm Ariyan 👋
 
 
+[![HitCount](http://hits.dwyl.com/ariyan2519/ariyan2519.svg)](http://hits.dwyl.com/ariyan2519/ariyan2519)
 
-
-
+Gist About me:😎
 
 - 🔭 I’m currently working on VinnoRup
 - 🌱 I’m currently learning Data Science
