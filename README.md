@@ -12,7 +12,7 @@ Gist About me:😎
 - 💬 Ask me about Python & Web Development Staffs
 - 📫 How to reach me: **[Email Me](fahmiduddinariyan@gmail.com)**
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: 
+- ⚡ My Favourite: 
               
               পৃথিবীর সব অপার,,
 
