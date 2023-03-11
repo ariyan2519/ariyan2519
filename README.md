@@ -12,7 +12,8 @@ Gist About me:😎
 - 💬 Ask me about Python & Web Development Staffs
 - 📫 How to reach me: **[Email Me](fahmiduddinariyan@gmail.com)**
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: পৃথিবীর সব অপার,,
+- ⚡ Fun fact: 
+-             পৃথিবীর সব অপার,,
 - 
               বিস্ময় থাক আমার অদেখা,,
               
